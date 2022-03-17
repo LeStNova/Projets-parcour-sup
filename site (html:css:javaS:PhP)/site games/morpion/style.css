@@ -1,0 +1,39 @@
+body{
+    background-image: url("fond-page.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    }
+
+.button{
+    border:3px solid white;
+    height:100px;
+    width: 100px;
+    font-size: 60px;
+    background-color: #00d9ff8e;
+    }
+
+.titre{
+    color: white;
+    text-shadow: black 2px 2px;
+}
+
+.txt{
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    text-shadow: rgb(0, 0, 0) 2px 2px;
+}
+
+.restartBp{
+    height: 100px;
+    width: 100px;
+    font-size: medium;
+}
+
+.refreshBp{
+    height: 100px;
+    width: 100px;
+    font-size: x-large;
+}
