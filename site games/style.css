@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image:  url("morpion/1200px-Stylized_uwu_emoticon.svg.png"), url("morpion/1200px-Stylized_uwu_emoticon.svg.png"), url("morpion/1200px-Stylized_uwu_emoticon.svg.png"), url("morpion/1200px-Stylized_uwu_emoticon.svg.png"), url("fond-page.jpg");
+    background-size: 10%, 10%, 10%, 10%, 100%;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    background-attachment: scroll, scroll, scroll, scroll, fixed;
+    background-position: 95% 95%, 5% 95%, 5% 5%, 95% 5%, center;
+}
+
+.titre {
+    color: white;
+    text-shadow: black 2px 2px;
+}
+
+.button {
+    color: rgb(0, 119, 255);
+    border: 5px solid white;
+    width: 100px;
+    height: 100px;
+}

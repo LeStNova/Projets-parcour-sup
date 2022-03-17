@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+.title{
+    color: rgba(255, 0, 0, 0.527);
+}
+
+.log {
+    margin-top: 8px;
+    font-family: monospace;
+  }

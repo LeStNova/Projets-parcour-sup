@@ -1,0 +1,3 @@
+barre de recherche (/p pour personne /img pour image ...)
+afficher le lien vers la page 
+lecture vocal des info 
