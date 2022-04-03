@@ -213,11 +213,11 @@ function resultat() {
     var q = c + e + g;
 
     if (winCroix == j || winCroix == k || winCroix == l || winCroix == m || winCroix == n || winCroix == o || winCroix == p || winCroix == q && win == 0) {
-        document.getElementById("resultat").textContent = "bien joué les Croix ont gagné !!! (les ronds vous puez ...)"
+        document.getElementById("resultat").textContent = "well played les croix ^^"
         win = 1;
     }
     if (winRond == j || winRond == k || winRond == l || winRond == m || winRond == n || winRond == o || winRond == p || winRond == q && win == 0) {
-        document.getElementById("resultat").textContent = "bien joué les Ronds ont gagné"
+        document.getElementById("resultat").textContent = "GG les ronds !!!"
         win = 1;
     }
     if (tours == 9 && win == 0) {
